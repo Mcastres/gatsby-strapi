@@ -20,8 +20,6 @@ const ArticleTemplate = ({ data }) => (
        uri.startsWith("http")
           ? uri
           : `${process.env.IMAGE_BASE_URL}${uri}`      }
-          className=“indexArticle”
-          escapeHTML={false}
      />
   </Layout>
 )
