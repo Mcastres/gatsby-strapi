@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 import Layout from "../components/layout"
-import Reactmarkdown from "react-markdown"
+import ReactMarkdown from "react-markdown"
 
 import "../styles/global.css"
 
