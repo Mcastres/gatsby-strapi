@@ -4,8 +4,6 @@ import Img from "gatsby-image"
 import Layout from "../components/layout"
 import ReactMarkdown from "react-markdown"
 
-import "../styles/global.css"
-
 const IndexPage = ({ data }) => (
   <Layout>
     <h1>Hi people</h1>
